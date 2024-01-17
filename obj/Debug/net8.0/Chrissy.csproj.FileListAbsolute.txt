@@ -12,3 +12,4 @@
 /Users/yanna/Documents/GitHub/Chrissy/obj/Debug/net8.0/Chrissy.pdb
 /Users/yanna/Documents/GitHub/Chrissy/obj/Debug/net8.0/Chrissy.genruntimeconfig.cache
 /Users/yanna/Documents/GitHub/Chrissy/obj/Debug/net8.0/ref/Chrissy.dll
+/Users/yanna/Documents/GitHub/Chrissy/obj/Debug/net8.0/Chrissy.sourcelink.json
