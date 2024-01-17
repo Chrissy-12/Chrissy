@@ -1,0 +1,14 @@
+/Users/yanna/Documents/GitHub/Chrissy/bin/Debug/net8.0/Chrissy
+/Users/yanna/Documents/GitHub/Chrissy/bin/Debug/net8.0/Chrissy.deps.json
+/Users/yanna/Documents/GitHub/Chrissy/bin/Debug/net8.0/Chrissy.runtimeconfig.json
+/Users/yanna/Documents/GitHub/Chrissy/bin/Debug/net8.0/Chrissy.dll
+/Users/yanna/Documents/GitHub/Chrissy/bin/Debug/net8.0/Chrissy.pdb
+/Users/yanna/Documents/GitHub/Chrissy/obj/Debug/net8.0/Chrissy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanna/Documents/GitHub/Chrissy/obj/Debug/net8.0/Chrissy.AssemblyInfoInputs.cache
+/Users/yanna/Documents/GitHub/Chrissy/obj/Debug/net8.0/Chrissy.AssemblyInfo.cs
+/Users/yanna/Documents/GitHub/Chrissy/obj/Debug/net8.0/Chrissy.csproj.CoreCompileInputs.cache
+/Users/yanna/Documents/GitHub/Chrissy/obj/Debug/net8.0/Chrissy.dll
+/Users/yanna/Documents/GitHub/Chrissy/obj/Debug/net8.0/refint/Chrissy.dll
+/Users/yanna/Documents/GitHub/Chrissy/obj/Debug/net8.0/Chrissy.pdb
+/Users/yanna/Documents/GitHub/Chrissy/obj/Debug/net8.0/Chrissy.genruntimeconfig.cache
+/Users/yanna/Documents/GitHub/Chrissy/obj/Debug/net8.0/ref/Chrissy.dll
